@@ -1,1 +1,1 @@
-# fast forward branch testing in the another branch
+# what is going with fast forward merge?
